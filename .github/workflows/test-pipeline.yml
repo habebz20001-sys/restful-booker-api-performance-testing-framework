@@ -1,4 +1,4 @@
-name: API & Performance Testing Pipeline
+﻿name: API & Performance Testing Pipeline
 
 on:
   push:
